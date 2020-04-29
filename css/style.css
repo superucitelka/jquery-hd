@@ -28,3 +28,7 @@ h1 small {
 nav.navbar-dark {
     background-color:  rgba(0,0,0,0.5) !important;
 }
+
+#mapa {
+    border: 1px solid black;
+}
